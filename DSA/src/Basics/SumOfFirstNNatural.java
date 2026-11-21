@@ -2,7 +2,7 @@ package Basics;
 
 import java.util.Scanner;
 
-public class SumOfFirstNNAtural {
+public class SumOfFirstNNatural {
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number: ");
