@@ -19,14 +19,17 @@ public class arrays {
         //OUTPUT
 
         //NORMAL FOR LOOP
+
 //        for (int i = 0; i < array.length; i++) {
 //            System.out.print(array[i]+" ");
 //        }
 
         //toString METHOD
-        //System.out.println(Arrays.toString(array));
+
+//        System.out.println(Arrays.toString(array));
 
         //FOR EACH LOOP
+
         for(int element:array){
             System.out.print(element+" ");
         }
